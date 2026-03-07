@@ -325,6 +325,15 @@ GitHub Pages
 ---
 
 # 📷 Screenshots
+<img width="1898" height="602" alt="image" src="https://github.com/user-attachments/assets/6f525498-891b-4287-a5fc-92deb36f4c6e" />
+<img width="1171" height="626" alt="image" src="https://github.com/user-attachments/assets/ff832791-9567-47f7-8931-e5e07bea935e" />
+<img width="1114" height="876" alt="image" src="https://github.com/user-attachments/assets/41788446-5ccc-479f-ae7d-8f54f759f455" />
+<img width="1919" height="210" alt="image" src="https://github.com/user-attachments/assets/1063c48f-adaf-43a4-a4d6-464b675d3345" />
+<img width="1893" height="928" alt="image" src="https://github.com/user-attachments/assets/d5c29acf-2754-4d65-8f1f-df84784845cc" />
+
+
+
+
 
 (Add images here)
 
